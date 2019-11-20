@@ -29,6 +29,7 @@ h1{
     margin-right: 2%;
 }
 #piramide{
-    width: 70%;
-    height: 10%;
+    width: 100%;
+    height: 380px;
+    border-radius: 10px;
 }
