@@ -33,4 +33,11 @@ h1{
     height: 380px;
     border-radius: 10px;
 }
-
+#articulo{
+    margin-top: 2%;
+}
+#pin{float: left;}
+h2{
+    font-family: "dayrom";
+    font-size: 180%;
+}
