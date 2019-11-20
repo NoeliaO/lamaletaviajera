@@ -22,4 +22,6 @@ h1{
 }
 #home,#blog,#viajes,#contacto{
     font-family: "dayrom";
+    text-decoration: none;
+    
 }
