@@ -1,3 +1,4 @@
+body{background-color: darksalmon;}
 #logo{
     float: left;
     width: 5%; 
@@ -9,10 +10,8 @@
 }
 h1{
     font-family: ballpark;
-    font-size: 230%;
+    font-size: 280%;
 }
 #diario{
-    margin: -16px;
+    margin-top: -16px;
 }
-
-div {border: 5px solid black;}
