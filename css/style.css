@@ -36,6 +36,9 @@ h1{
 #articulo{
     margin-top: 2%;
 }
+#articulo1{
+    width: 79%;
+}
 #pin{
     float: left;
     margin-right: 1%;
@@ -44,4 +47,10 @@ h2{
     font-family: "dayrom";
     font-size: 180%;
 }
-
+#tiempo{
+    border: 2px solid grey;
+    height: 350px;
+    width: 20%;
+    background-color: grey;
+    float: right;
+}
