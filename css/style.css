@@ -16,3 +16,10 @@ h1{
 #diario{
     margin-top: -16px;
 }
+@font-face{
+    font-family: "dayrom";
+    src: url(./fuentes/dayrom.ttf);
+}
+#home,#blog,#viajes,#contacto{
+    font-family: "dayrom";
+}
