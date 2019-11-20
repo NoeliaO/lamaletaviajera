@@ -36,7 +36,10 @@ h1{
 #articulo{
     margin-top: 2%;
 }
-#pin{float: left;}
+#pin{
+    float: left;
+    margin-right: 1%;
+}
 h2{
     font-family: "dayrom";
     font-size: 180%;
