@@ -25,7 +25,10 @@ h1{
     text-decoration: none;
     display: inline-block;
     position: relative;
-    left: 40%;
+    left: 25%;
     margin-right: 2%;
 }
-
+#piramide{
+    width: 70%;
+    height: 10%;
+}
