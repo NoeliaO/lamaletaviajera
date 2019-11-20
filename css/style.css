@@ -9,6 +9,10 @@
 }
 h1{
     font-family: ballpark;
+    font-size: 230%;
+}
+#diario{
+    margin: -16px;
 }
 
 div {border: 5px solid black;}
