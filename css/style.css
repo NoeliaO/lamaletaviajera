@@ -23,5 +23,9 @@ h1{
 #home,#blog,#viajes,#contacto{
     font-family: "dayrom";
     text-decoration: none;
-    
+    display: inline-block;
+    position: relative;
+    left: 40%;
+    margin-right: 2%;
 }
+
