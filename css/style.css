@@ -37,7 +37,7 @@ h1{
     margin-top: 2%;
 }
 #articulo1{
-    width: 79%;
+    width: 80%;
 }
 #pin{
     float: left;
@@ -48,9 +48,18 @@ h2{
     font-size: 180%;
 }
 #tiempo{
-    border: 2px solid grey;
-    height: 350px;
-    width: 20%;
-    background-color: grey;
+    border: 2px solid rgb(41, 41, 41);
+    height: 500px;
+    width: 17%;
+    background-color: rgb(41, 41, 41);
     float: right;
+    padding-left: 1%;
+    position: relative;
+    bottom: 395px;
+    border-radius: 2%;
 }
+#ttiempo{
+    font-family: "dayrom";
+    color: white;
+}
+
