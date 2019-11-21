@@ -101,5 +101,10 @@ h1{
 #mis{
     position: relative; 
     left: 70%;
-    bottom: 116px;
+    bottom: 165px;
+}
+#nilo,#osiris,#ep,#luxor{
+    width: 90px;
+    height: 60px;
+    border: 2px solid black;
 }
