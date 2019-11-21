@@ -5,6 +5,10 @@ body{background-color: darksalmon;}
     width: 5%; 
     height: 5%;
 }
+#linea1{
+    color: dimgray;
+    border-color: dimgray;
+}
 @font-face{
     font-family: "ballpark";
     src: url("./fuentes/ballpark.ttf");
@@ -56,7 +60,7 @@ h2{
     padding-left: 1%;
     position: relative;
     bottom: 395px;
-    border-radius: 2%;
+    border-radius: 1%;
 }
 #ttiempo{
     font-family: "dayrom";
@@ -69,4 +73,10 @@ h2{
 }
 #facebook,#twitter,#vimeo,#flickr{
     margin-top: 5%;
+}
+#linea2{
+    border-color: dimgray;
+    color: dimgray;
+    position: relative;
+    top: 110px;
 }
