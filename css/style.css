@@ -1,4 +1,4 @@
-body{background-color: darksalmon;}
+body{background-image: url(../multimedia/yellow_background.png);}
 #cabecera{margin-bottom: 3%;}
 #logo{
     float: left;
@@ -47,7 +47,7 @@ h1{
     float: left;
     margin-right: 1%;
 }
-h2{
+#pasion{
     font-family: "dayrom";
     font-size: 180%;
 }
@@ -79,4 +79,27 @@ h2{
     color: dimgray;
     position: relative;
     top: 110px;
+}
+#top{
+    position: relative; 
+    left: 40%;
+    top: 99px;
+}
+#tweet{
+    position: relative; 
+    top: 99px;
+    
+}
+#ultimo,#amigos,#fotos{
+    font-family: "dayrom";
+}
+#fotografias{
+    position: relative; 
+    left: 35%;
+    bottom: 26px;
+}
+#mis{
+    position: relative; 
+    left: 70%;
+    bottom: 116px;
 }
