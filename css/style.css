@@ -48,10 +48,10 @@ h2{
     font-size: 180%;
 }
 #tiempo{
-    border: 2px solid rgb(41, 41, 41);
-    height: 500px;
+    border: 2px solid dimgray;
+    height: 530px;
     width: 17%;
-    background-color: rgb(41, 41, 41);
+    background-color:dimgray;
     float: right;
     padding-left: 1%;
     position: relative;
@@ -62,4 +62,11 @@ h2{
     font-family: "dayrom";
     color: white;
 }
-
+#arrow{
+    position: relative;
+    left: 81%;
+    bottom: 280px;
+}
+#facebook,#twitter,#vimeo,#flickr{
+    margin-top: 5%;
+}
