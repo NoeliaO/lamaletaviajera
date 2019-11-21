@@ -93,9 +93,12 @@ h1{
 #ultimo,#amigos,#fotos{
     font-family: "dayrom";
 }
+#amigos{
+    margin-bottom: -5px;
+}
 #fotografias{
     position: relative; 
-    left: 35%;
+    left: 30%;
     bottom: 26px;
 }
 #mis{
@@ -107,4 +110,17 @@ h1{
     width: 90px;
     height: 60px;
     border: 2px solid black;
+}
+#aizquierda{
+    position: relative;
+    right: 14%;
+}
+#aderecha{
+    position: relative;
+    left: 25%;
+}
+li{
+    list-style-image: url(../multimedia/external_link.png);
+    color: maroon;
+    text-align: left;
 }
