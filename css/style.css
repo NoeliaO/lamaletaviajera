@@ -37,6 +37,23 @@ h1{
     height: 380px;
     border-radius: 10px;
 }
+#textoencima{
+    width: 100%;
+    height: 40px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    position: relative;
+    bottom: 60px;
+    background-color: black;
+    opacity: 0.3;
+}
+#textoimagen{
+    color: white;
+    position: relative;
+    left: 1%;
+    top: 30%;
+    opacity: 1;
+}
 #articulo{
     margin-top: 2%;
 }
